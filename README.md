@@ -34,4 +34,3 @@ if you already have docker installed, you can run those commands :
   - - NODE_JS
   
 4 - Enjoy.
-j.nebil@gmail.com
